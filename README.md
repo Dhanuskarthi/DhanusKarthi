@@ -80,20 +80,6 @@ I'm a AI & Data Science undergraduate passionate about building full-stack web a
 
 ---
 
-## 📜 Certifications
-
-| Certificate | Issuer | Date |
-|---|---|---|
-| Introduction to Data Analytics | IBM / Coursera | Feb 2026 |
-| Generative AI: Prompt Engineering Basics | IBM / Coursera | Mar 2026 |
-| Introduction to Embedded Machine Learning | Edge Impulse / Coursera | Feb 2026 |
-| Introduction to Programming with MATLAB | Vanderbilt University / Coursera | Feb 2026 |
-| Cybersecurity for Everyone | University of Maryland / Coursera | Feb 2026 |
-
----
-
-
-
 <p align="center">
   <i>"Consistent learner. Clean code. Always building."</i>
 </p>
