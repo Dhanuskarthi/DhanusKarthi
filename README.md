@@ -15,11 +15,16 @@
 
 ## 👨‍💻 About Me
 
-I'm a AI & Data Science undergraduate passionate about building full-stack web applications and exploring machine learning. I actively maintain repositories covering web development, digital logic design, and coursework projects.
+I'm an **AI & Data Science undergraduate** passionate about **Ethical Hacking, Cybersecurity, Web Development, UI/UX Design, and Natural Language Processing**. I enjoy building secure, user-friendly, visually appealing, and intelligent digital solutions by combining analytical thinking, creative design, and problem-solving skills.
+
+I actively maintain repositories covering **web development, digital logic design, cybersecurity learning, NLP concepts, and coursework projects**.
 
 - 🔭 Currently working on **React-based web applications** deployed via Vercel & Netlify
-- 🌱 Learning **Python for Data Analysis**, **Machine Learning**, and **Embedded ML**
-- 💡 Interested in **AI, Data Science, and App Development**
+- 🌱 Learning **Ethical Hacking, Cybersecurity, Python for Data Analysis, Machine Learning, and NLP**
+- 🔐 Interested in **Web Security, Vulnerability Assessment, Secure Web Applications, and Ethical Hacking**
+- 🎨 Passionate about **UI/UX Design, Responsive Web Design, and User-Friendly Interfaces**
+- 🤖 Exploring **Natural Language Processing, Text Classification, Sentiment Analysis, and AI-based applications**
+- 💡 Interested in **AI, Data Science, Cybersecurity, Web Development, and App Development**
 - 🏅 Participated in **Caterpillar Inc. company-level hackathon** and multiple college-level hackathons
 - 📫 Reach me at **dhanuskarthi24@gmail.com**
 
@@ -40,6 +45,22 @@ I'm a AI & Data Science undergraduate passionate about building full-stack web a
 **Frameworks & Libraries**
 
 ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
+![NLP](https://img.shields.io/badge/NLP-Natural%20Language%20Processing-purple?style=flat)
+
+**Cybersecurity & Ethical Hacking**
+
+![Cybersecurity](https://img.shields.io/badge/Cybersecurity-0A66C2?style=flat&logo=securityscorecard&logoColor=white)
+![Ethical Hacking](https://img.shields.io/badge/Ethical%20Hacking-111111?style=flat&logo=hackthebox&logoColor=9FEF00)
+![Web Security](https://img.shields.io/badge/Web%20Security-FF6F00?style=flat&logo=owasp&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-Basics-FCC624?style=flat&logo=linux&logoColor=black)
+
+**UI/UX & Design**
+
+![UI/UX](https://img.shields.io/badge/UI%2FUX-Design-FF69B4?style=flat)
+![Figma](https://img.shields.io/badge/Figma-Basics-F24E1E?style=flat&logo=figma&logoColor=white)
+![Responsive Design](https://img.shields.io/badge/Responsive%20Design-02569B?style=flat)
 
 **Tools & Platforms**
 
@@ -57,11 +78,28 @@ I'm a AI & Data Science undergraduate passionate about building full-stack web a
 ## 🚀 Featured Projects
 
 ### 🌐 Web Application Suite *(Deployed)*
-> React · HTML · CSS · JavaScript · Vercel · Netlify
+> React · HTML · CSS · JavaScript · Vercel · Netlify · UI/UX
 
-- Engineered and deployed multiple full-stack web applications with clean, responsive UI
-- Implemented CI/CD pipelines via GitHub integration with Vercel and Netlify
+- Engineered and deployed multiple web applications with clean, responsive, and user-friendly UI
+- Applied UI/UX principles to improve layout, navigation, and visual design
+- Implemented GitHub-based deployment workflows using Vercel and Netlify
 - Optimized performance through code refactoring and asset management
+
+### 🔐 Cybersecurity & Ethical Hacking Learning Projects
+> Ethical Hacking · Cybersecurity · Web Security · Linux Basics
+
+- Exploring basic ethical hacking concepts, cybersecurity fundamentals, and secure coding practices
+- Learning about common web vulnerabilities, authentication issues, and safe development methods
+- Practicing cybersecurity awareness with a focus on ethical and responsible security learning
+- Interested in vulnerability assessment, web application security, and network security basics
+
+### 🤖 Natural Language Processing Mini Projects
+> Python · NLP · Machine Learning · Text Processing
+
+- Learning NLP concepts such as text preprocessing, tokenization, stemming, and stop-word removal
+- Exploring text classification, sentiment analysis, and AI-based language applications
+- Applying Python libraries for data-driven problem solving and language-based projects
+- Interested in building intelligent applications that understand and process human language
 
 ### ⚡ Digital Logic Design – VHDL / Verilog Lab Projects
 > Verilog HDL · VHDL · Quartus Prime · ModelSim
@@ -75,11 +113,27 @@ I'm a AI & Data Science undergraduate passionate about building full-stack web a
 ## 💼 Experience
 
 **Web Design Intern** — Boston Nex Technologies (FITA Academy) &nbsp;|&nbsp; *Aug 2025*
-- Built responsive web pages using HTML, CSS, JavaScript with mobile-first layouts
-- Applied UI/UX principles and managed code via Git & GitHub in a real-time project workflow
+
+- Built responsive web pages using HTML, CSS, and JavaScript with mobile-first layouts
+- Applied UI/UX design principles to create clean and user-friendly web interfaces
+- Managed code using Git and GitHub in a real-time project workflow
+- Gained practical experience in front-end development, design structure, and project implementation
 
 ---
 
+## 🎯 Areas of Interest
+
+- Ethical Hacking  
+- Cybersecurity  
+- Web Security  
+- Web Development  
+- UI/UX Design  
+- Natural Language Processing  
+- Artificial Intelligence  
+- Machine Learning  
+- Data Science   
+---
+
 <p align="center">
-  <i>"Consistent learner. Clean code. Always building."</i>
+  <i>"Learning every day. Building secure, smart, and user-friendly digital solutions."</i>
 </p>
